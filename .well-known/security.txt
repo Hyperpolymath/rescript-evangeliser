@@ -4,10 +4,11 @@
 
 # Our security address for vulnerability reports
 Contact: https://github.com/Hyperpolymath/rescript-evangeliser/security/advisories/new
-Contact: mailto:security@hyperpolymath.example.org
+# Note: Replace with real security contact email when available
+# Contact: mailto:security@hyperpolymath.org
 
-# Expires one year from project start
-Expires: 2025-11-22T23:59:59.000Z
+# Expires one year from last update
+Expires: 2026-12-17T23:59:59.000Z
 
 # Preferred language for security reports
 Preferred-Languages: en
