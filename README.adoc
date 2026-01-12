@@ -1,12 +1,15 @@
 = ReScript Evangeliser
 
-image:https://img.shields.io/badge/license-Palimpsest--MPL--1.0-purple.svg[Palimpsest-MPL-1.0,link="https://github.com/hyperpolymath/palimpsest-license"] image:https://img.shields.io/badge/philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
+image:[Palimpsest-MPL-1.0,link="https://github.com/hyperpolymath/palimpsest-license"]
 
 image:https://img.shields.io/badge/RSR-Bronze-CD7F32[RSR Bronze,link=docs/RSR_COMPLIANCE.md]
-image:https://img.shields.io/badge/License-MIT-yellow.svg[License: MIT,link=LICENSE-MIT.txt]
-image:https://img.shields.io/badge/License-Palimpsest%20v0.8-blue.svg[License: Palimpsest,link=LICENSE-PALIMPSEST.txt]
-image:https://img.shields.io/badge/TPCF-Perimeter%203-green.svg[TPCF: Perimeter 3,link=docs/TPCF.md]
-image:https://img.shields.io/badge/ReScript-First-E8532F.svg[ReScript First]
+image:[License,link="https://github.com/hyperpolymath/palimpsest-license"]
+
+// SPDX-License-Identifier: PMPL-1.0
+// SPDX-FileCopyrightText: 2025 Jonathan D.A. Jewell
+
+image:[TPCF: Perimeter 3,link=docs/TPCF.md]
+image:[ReScript First]
 image:https://img.shields.io/badge/Deno-Runtime-000000.svg[Deno Runtime]
 
 > *Celebrate good, minimize bad, show better* — A pattern library and educational toolkit that teaches JavaScript developers ReScript through progressive code transformation, without shame.
